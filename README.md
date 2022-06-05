@@ -19,7 +19,7 @@ Clone from my repo or download the zip file. Install Node, navigate to the root 
 ## Usage
 ![screenshot](./public/assets/images/Capture.PNG "screenshot")
 ![screenshot](./public/assets/images/Capture2.PNG "screenshot")
-Navigate to the root directory and type npm start. Head to either https://localhost:3001/ or check out the heroku link 
+Navigate to the root directory and type npm start. Head to either https://localhost:3001/ or check out the heroku link https://note-taker9040.herokuapp.com/
 
 ## License
 
